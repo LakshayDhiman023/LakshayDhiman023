@@ -7,8 +7,8 @@
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_moksha2107) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aroramoksh/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aroramoksh11) [![Portfolio](https://img.shields.io/badge/-PORTFOLIO-%232B90D9?logo=google-chrome&logoColor=white)](https://aroramoksh.me/)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aroramoksh11@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lakshay_dhiman2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshaydhiman023) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhimanlakshay.02@gmail.com)
 
 ### 📊 GitHub Stats
 
@@ -71,7 +71,7 @@
 
 ### 📂 Noteworthy Projects
 
-🚀 [**Academic Insight Portal**](https://github.com/LakshayDhiman023/academic-insight-portal) - A comprehensive platform for academic data analysis.  
+🚀 [**Predictive-Maintenance-for-IoT-over-5G-with-AWS-Sagemaker**](https://github.com/LakshayDhiman023/Predictive-Maintenance-for-IoT-over-5G-with-AWS-Sagemaker ) - A 5G-enabled IoT system leveraging machine learning and AWS SageMaker for real-time monitoring, anomaly detection, and predictive maintenance. 
 🔬 [**Generative Model for Data Augmentation in NLP**](https://github.com/LakshayDhiman023/nlp-data-augmentation) - AI-based data augmentation for NLP tasks.  
 🎵 [**North Indian Classical Music Melody Generator**](https://github.com/LakshayDhiman023/raag-melody-gen) - An AI-powered melody generation system based on classical Raags.
 
