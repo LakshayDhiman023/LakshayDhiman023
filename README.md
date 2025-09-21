@@ -9,7 +9,7 @@
 ### 🌟 Competitive Programming
 [![Codeforces](https://img.shields.io/badge/Codeforces-Expert-blue)](https://codeforces.com/profile/HelloBuddyJr23)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Guardian-orange)](https://leetcode.com/u/j3GxocERYn/)
-[![Codechef](https://img.shields.io/badge/Codechef-4*)](https://leetcode.com/u/j3GxocERYn/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-4★-brown)](https://www.codechef.com/users/yohohohooooo)
 
 
 - Attained a maximum rating of 1792 (Expert) on Codeforces — Handle: HelloBuddyJr23.
@@ -61,22 +61,12 @@
 -  Applied input validation and centralized error handling, reducing production errors by 60% and improving consistency.
 -  Collaborated with frontend and product teams on API specifications, achieving 25% faster delivery and 90% fewer bugs
 
-#### **React Developer Intern at CanyFix** _(Jan 2025 – Present)_
+#### **React Developer Intern at CanyFix** _(Jan 2025 – Feb 2025)_
 
 - Developed a website using **Next.js** and **Tailwind CSS**, improving mobile accessibility by **40%**.
 - Optimized component rendering and integrated lazy loading, reducing page load time.
 - Enhanced API interactions and state management, improving load efficiency by **50%**.
 - Conducted code audits and implemented rigorous testing to strengthen security and maintainability.
-
----
-
----
-
-### 🚀 Featured Projects
-
----
-
-### 🚀 Featured Projects
 
 ---
 
