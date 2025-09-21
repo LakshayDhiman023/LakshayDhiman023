@@ -84,40 +84,45 @@
 
 ### 🚀 Featured Projects
 
+---
+
+### 🚀 Featured Projects
+
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/LakshayDhiman023/Smart-Expense-Analyser">
+      Smart Expense Analyser</a></h3>
+      <p>
+        Full-stack web app for <b>receipt storage</b> and <b>expense tracking</b>.  
+        • Integrated <b>Tesseract.js OCR</b> + <b>BERT-based NER</b> for 95% accurate receipt parsing, reducing manual entry time by 90%.  
+        • Built <b>Recharts dashboards</b> for category & time-series spending trends.  
+        • Implemented <b>Clerk authentication</b>, upload workflows, and APIs for client–server communication.  
+      </p>
+      <p>
+        <b>Tech Stack:</b> React.js, Node.js, MongoDB, Tesseract.js, LayoutLM, Recharts, Clerk
+      </p>
+      <a href="https://github.com/LakshayDhiman023/Smart-Expense-Analyser">🔗 Visit Repo</a>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/LakshayDhiman023/Predictive-Maintenance-for-IoT-over-5G-with-AWS-Sagemaker">
-      Predictive Maintenance for IoT over 5G</a></h3>
-      <p>5G-enabled IoT system leveraging <b>ML</b> & <b>AWS SageMaker</b> for real-time monitoring, anomaly detection, and predictive maintenance.</p>
-      <a href="https://github.com/LakshayDhiman023/Predictive-Maintenance-for-IoT-over-5G-with-AWS-Sagemaker">
-      🔗 Visit Repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/LakshayDhiman023/nlp-data-augmentation">
-      Generative Model for NLP Data Augmentation</a></h3>
-      <p>AI-based data augmentation pipeline for <b>NLP tasks</b>, boosting dataset diversity and improving model robustness.</p>
-      <a href="https://github.com/LakshayDhiman023/nlp-data-augmentation">
-      🔗 Visit Repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/LakshayDhiman023/raag-melody-gen">
-      Raag Melody Generator</a></h3>
-      <p>An AI-powered system for generating melodies based on <b>North Indian Classical Raags</b> with musical structure awareness.</p>
-      <a href="https://github.com/LakshayDhiman023/raag-melody-gen">
-      🔗 Visit Repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/LakshayDhiman023/YourProjectHere">
-      [Your 4th Project Title]</a></h3>
-      <p>Short description of your project. Highlight key features, tech stack, and purpose in 2-3 lines.</p>
-      <a href="https://github.com/LakshayDhiman023/YourProjectHere">
-      🔗 Visit Repo</a>
+      Predictive Maintenance for IoT with AWS SageMaker</a></h3>
+      <p>
+        Predictive pipeline for <b>IoT sensor data</b> and machine failure prevention.  
+        • Generated synthetic dataset (10k+ entries) simulating real-world conditions.  
+        • Trained & tuned <b>XGBoost model</b> with 94.7% accuracy.  
+        • Deployed on <b>AWS SageMaker</b> real-time endpoints, achieving &lt;120ms latency.  
+      </p>
+      <p>
+        <b>Tech Stack:</b> Python, XGBoost, AWS SageMaker, Streamlit, Tinkercad, Pandas, NumPy, Scikit-learn
+      </p>
+      <a href="https://github.com/LakshayDhiman023/Predictive-Maintenance-for-IoT-over-5G-with-AWS-Sagemaker">🔗 Visit Repo</a>
     </td>
   </tr>
 </table>
+
+---
+
 
 ---
 
