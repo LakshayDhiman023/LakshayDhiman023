@@ -9,6 +9,8 @@
 ### 🌟 Competitive Programming
 [![Codeforces](https://img.shields.io/badge/Codeforces-Expert-blue)](https://codeforces.com/profile/HelloBuddyJr23)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Guardian-orange)](https://leetcode.com/u/j3GxocERYn/)
+[![Codechef](https://img.shields.io/badge/Codechef-4*)](https://leetcode.com/u/j3GxocERYn/)
+
 
 - Attained a maximum rating of 1792 (Expert) on Codeforces — Handle: HelloBuddyJr23.
 - Secured a peak rating of 1962 (4 ⋆) on CodeChef — Handle: yohohohooooo.
@@ -48,19 +50,7 @@
 ---
 
 
-## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lakshay_dhiman2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshaydhiman023) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhimanlakshay.02@gmail.com)
-
-### 📊 GitHub Stats
-
-![Lakshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LakshayDhiman023&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshayDhiman023&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LakshayDhiman023&theme=radical)
-
----
----
 
 ### 💼 Experience
 
@@ -88,30 +78,30 @@
 
 ### 🚀 Featured Projects
 
+---
+
+### 🚀 Featured Projects
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/LakshayDhiman023/Smart-Expense-Analyser">
+      <h3><a href="https://github.com/LakshayDhiman023/smart-expense-analyser">
       Smart Expense Analyser</a></h3>
       <p>
-        Full-stack web app for <b>receipt storage</b> and <b>expense tracking</b>.  
-        • Integrated <b>Tesseract.js OCR</b> + <b>BERT-based NER</b> for 95% accurate receipt parsing, reducing manual entry time by 90%.  
-        • Built <b>Recharts dashboards</b> for category & time-series spending trends.  
-        • Implemented <b>Clerk authentication</b>, upload workflows, and APIs for client–server communication.  
+        A full-stack web application for receipt storage and expense tracking.  
+        It leverages <b>Tesseract.js OCR</b> and a <b>BERT-based NER model</b> to automate receipt parsing with 95% accuracy, while interactive <b>Recharts dashboards</b> provide spending insights. Built with secure <b>Clerk authentication</b>, seamless upload workflows, and optimized APIs for smooth client–server communication.
       </p>
       <p>
         <b>Tech Stack:</b> React.js, Node.js, MongoDB, Tesseract.js, LayoutLM, Recharts, Clerk
       </p>
-      <a href="https://github.com/LakshayDhiman023/Smart-Expense-Analyser">🔗 Visit Repo</a>
+      <a href="https://github.com/LakshayDhiman023/smart-expense-analyser">🔗 Visit Repo</a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/LakshayDhiman023/Predictive-Maintenance-for-IoT-over-5G-with-AWS-Sagemaker">
       Predictive Maintenance for IoT with AWS SageMaker</a></h3>
       <p>
-        Predictive pipeline for <b>IoT sensor data</b> and machine failure prevention.  
-        • Generated synthetic dataset (10k+ entries) simulating real-world conditions.  
-        • Trained & tuned <b>XGBoost model</b> with 94.7% accuracy.  
-        • Deployed on <b>AWS SageMaker</b> real-time endpoints, achieving &lt;120ms latency.  
+        An AI-powered predictive maintenance system for <b>IoT sensor data</b>.  
+        It generates synthetic datasets with 10,000+ entries, trains a high-accuracy <b>XGBoost model</b> (94.7%), and deploys it on <b>AWS SageMaker</b> real-time endpoints for low-latency failure prediction. The system enhances reliability through scalable deployment and interactive dashboards.
       </p>
       <p>
         <b>Tech Stack:</b> Python, XGBoost, AWS SageMaker, Streamlit, Tinkercad, Pandas, NumPy, Scikit-learn
@@ -123,12 +113,18 @@
 
 ---
 
+## 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lakshay_dhiman2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshaydhiman023) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhimanlakshay.02@gmail.com)
+
+### 📊 GitHub Stats
+
+![Lakshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LakshayDhiman023&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshayDhiman023&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LakshayDhiman023&theme=radical)
 
 ---
-
-
----
-
 ### 📖 What I'm Currently Learning
 
 - **Advanced NLP & LLMs** (Training transformers with Hugging Face)
