@@ -80,11 +80,47 @@
 
 ---
 
-### 📂 Noteworthy Projects
+---
 
-🚀 [**Predictive-Maintenance-for-IoT-over-5G-with-AWS-Sagemaker**](https://github.com/LakshayDhiman023/Predictive-Maintenance-for-IoT-over-5G-with-AWS-Sagemaker ) - A 5G-enabled IoT system leveraging machine learning and AWS SageMaker for real-time monitoring, anomaly detection, and predictive maintenance. 
-🔬 [**Generative Model for Data Augmentation in NLP**](https://github.com/LakshayDhiman023/nlp-data-augmentation) - AI-based data augmentation for NLP tasks.  
-🎵 [**North Indian Classical Music Melody Generator**](https://github.com/LakshayDhiman023/raag-melody-gen) - An AI-powered melody generation system based on classical Raags.
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/LakshayDhiman023/Predictive-Maintenance-for-IoT-over-5G-with-AWS-Sagemaker">
+      Predictive Maintenance for IoT over 5G</a></h3>
+      <p>5G-enabled IoT system leveraging <b>ML</b> & <b>AWS SageMaker</b> for real-time monitoring, anomaly detection, and predictive maintenance.</p>
+      <a href="https://github.com/LakshayDhiman023/Predictive-Maintenance-for-IoT-over-5G-with-AWS-Sagemaker">
+      🔗 Visit Repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/LakshayDhiman023/nlp-data-augmentation">
+      Generative Model for NLP Data Augmentation</a></h3>
+      <p>AI-based data augmentation pipeline for <b>NLP tasks</b>, boosting dataset diversity and improving model robustness.</p>
+      <a href="https://github.com/LakshayDhiman023/nlp-data-augmentation">
+      🔗 Visit Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/LakshayDhiman023/raag-melody-gen">
+      Raag Melody Generator</a></h3>
+      <p>An AI-powered system for generating melodies based on <b>North Indian Classical Raags</b> with musical structure awareness.</p>
+      <a href="https://github.com/LakshayDhiman023/raag-melody-gen">
+      🔗 Visit Repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/LakshayDhiman023/YourProjectHere">
+      [Your 4th Project Title]</a></h3>
+      <p>Short description of your project. Highlight key features, tech stack, and purpose in 2-3 lines.</p>
+      <a href="https://github.com/LakshayDhiman023/YourProjectHere">
+      🔗 Visit Repo</a>
+    </td>
+  </tr>
+</table>
+
+---
+
 
 ---
 
