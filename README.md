@@ -6,7 +6,7 @@
 ---
 
 
-### 🌟 Notable Achievements
+### 🌟 Competitive Programming
 [![Codeforces](https://img.shields.io/badge/Codeforces-Expert-blue)](https://codeforces.com/profile/HelloBuddyJr23)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Guardian-orange)](https://leetcode.com/u/j3GxocERYn/)
 
@@ -60,14 +60,16 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LakshayDhiman023&theme=radical)
 
 ---
-
-
-
-
-
 ---
 
 ### 💼 Experience
+
+#### **Software Developer Intern at Infinoid Technologies** _(May 2025 – July 2025)_
+
+-  Delivered 15+ RESTful APIs for biometric attendance workflows, reducing data processing time by 40%.
+-  Programmed CRUD operations with filtering and pagination, supporting 500+ concurrent users with 95% system uptime.
+-  Applied input validation and centralized error handling, reducing production errors by 60% and improving consistency.
+-  Collaborated with frontend and product teams on API specifications, achieving 25% faster delivery and 90% fewer bugs
 
 #### **React Developer Intern at CanyFix** _(Jan 2025 – Present)_
 
