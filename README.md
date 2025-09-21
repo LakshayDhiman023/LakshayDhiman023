@@ -1,22 +1,20 @@
 ## 👋 Hi, I'm Lakshay Dhiman!
 
-🚀 **Web Developer | Competitive Programmer | AI Enthusiast**  
+🚀 **Competitive Programmer | Full Stack Web Developer |  AI Enthusiast**  
 📍 **B.Tech CSE | IIIT Vadodara**
 
 ---
 
-## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lakshay_dhiman2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshaydhiman023) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhimanlakshay.02@gmail.com)
+### 🌟 Notable Achievements
+[![Codeforces](https://img.shields.io/badge/Codeforces-Expert-blue)](https://codeforces.com/profile/HelloBuddyJr23)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Guardian-orange)](https://leetcode.com/u/j3GxocERYn/)
 
-### 📊 GitHub Stats
+- Attained a maximum rating of 1792 (Expert) on Codeforces — Handle: HelloBuddyJr23.
+- Secured a peak rating of 1962 (4 ⋆) on CodeChef — Handle: yohohohooooo.
+- Earned a top rating of 2158 (Guardian) on LeetCode — Handle: HelloBuddyJr.
+- Achieved Global Rank 8 in CodeChef Starters 177 and Global Rank 554 in Educational Codeforces Round 177.
 
-![Lakshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LakshayDhiman023&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshayDhiman023&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LakshayDhiman023&theme=radical)
-
----
 
 ### 🛠️ Skills & Tech Stack
 
@@ -49,12 +47,23 @@
 
 ---
 
-### 🌟 Notable Achievements
 
-- Cleared **Meta Hacker Cup Round One** with **Rank 2589** among over 10,000 participants.
-- **Rank 8, 37** in CodeChef Starters. Consistently ranked under **1000** in CodeChef contests.
-- **Rank 892** in Codeforces Div 3. Consistently ranked under **3000** in Codeforces contests.
-- **Rank 691** in LeetCode Biweekly contest. Frequently ranked under **1000** in LeetCode weekly and biweekly contests.
+## 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lakshay_dhiman2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshaydhiman023) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhimanlakshay.02@gmail.com)
+
+### 📊 GitHub Stats
+
+![Lakshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LakshayDhiman023&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshayDhiman023&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LakshayDhiman023&theme=radical)
+
+---
+
+
+
+
 
 ---
 
